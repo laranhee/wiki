@@ -11,7 +11,11 @@ module.exports = {
         {
           title: '목록',
           collapsable: false,
-          children: ['prettier-with-githook', 'git-delete-remote-branch'],
+          children: [
+            'prettier-with-githook',
+            'git-delete-remote-branch',
+            'eslint-disable-rules-with-inline-comments',
+          ],
         },
       ],
     },
