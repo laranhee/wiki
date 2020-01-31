@@ -39,7 +39,7 @@ npm install -D prettier husky lint-staged
 // package.json
 // 커밋 직전에 lint-staged를 실행한다.
 {
-  "hussky": {
+  "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
