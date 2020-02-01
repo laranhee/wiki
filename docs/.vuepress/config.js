@@ -15,6 +15,7 @@ module.exports = {
             'prettier-with-githook',
             'git-delete-remote-branch',
             'eslint-disable-rules-with-inline-comments',
+            'react-navigation-5-기본',
           ],
         },
       ],
